@@ -1,0 +1,10 @@
+# Core Requirements
+opencv-python==4.5.5.64
+dlib==19.24.0
+numpy==1.21.6
+torch==1.13.1
+winsound==1.0.0  # Windows only - remove if deploying on Linux/Mac
+
+# Additional dependencies
+scipy==1.7.3
+imutils==0.5.4
